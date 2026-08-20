@@ -11,12 +11,11 @@ An end-to-end FP&A analytics project built with **Python, PostgreSQL, SQL, DAX, 
 
 ### Executive Overview
 
-![Executive Overview](dashboard/Executive_Overview.png)
-
+![Executive Overview](Dashboard/Executive_Overview.png)
 
 ### Variance Driver Analysis
 
-![Variance Driver Analysis](dashboard/Variance_Drivers.png)
+![Variance Driver Analysis](Dashboard/Variance_Drivers.png)
 
 ---
 
