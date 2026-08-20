@@ -1,0 +1,9 @@
+category_id,category_name,category_type,category_group
+C01,Product Revenue,Revenue,Revenue
+C02,Service Revenue,Revenue,Revenue
+C03,Payroll Expense,Expense,Operating Expense
+C04,Marketing Expense,Expense,Operating Expense
+C05,Technology Expense,Expense,Operating Expense
+C06,Travel Expense,Expense,Administrative Expense
+C07,Office Expense,Expense,Administrative Expense
+C08,Training Expense,Expense,Administrative Expense

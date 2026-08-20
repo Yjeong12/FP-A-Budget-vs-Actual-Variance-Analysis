@@ -1,0 +1,7 @@
+department_id,department_name,cost_center,manager_name
+D01,Sales,CC100,A. Kim
+D02,Marketing,CC200,J. Lee
+D03,Operations,CC300,M. Park
+D04,Finance,CC400,S. Choi
+D05,HR,CC500,H. Jung
+D06,IT,CC600,D. Han
